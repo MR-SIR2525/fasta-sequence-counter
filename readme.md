@@ -26,6 +26,7 @@ The input file example here is "Salmon.txt" and the example output is "sequence_
    - The FASTA file.
 
 2. **Run the Script and follow the prompts**:
+   - Download the counter.py file first...
 
     Windows cmd or powershell:
    ```powershell
