@@ -2,10 +2,8 @@ import os
 
 def extract_sequences(file_path):
     """
-    Extracts sequences of 20 characters from a file.
-
-    Returns:
-    - sequences (set): A set of sequences of 20 characters extracted from the file.
+    Extracts sequences of 20 characters from a file.\n
+    Returns a set of sequences extracted from the file.
     """
     sequences = set()
     with open(file_path, 'r') as file:
