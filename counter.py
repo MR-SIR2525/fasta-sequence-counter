@@ -16,7 +16,8 @@ def extract_sequences(file_path):
 
 def count_sequences_in_file(unique_sequences, file_path):
     """
-    Counts the occurrences of each unique sequence in the file and returns a dictionary of 'sequences: counts'.
+    Counts the occurrences of each unique sequence in the file and returns a dictionary of 
+    'sequences: counts'. It doesn't overfill your memory/RAM because it analyses the file line by line.
     
     Parameters:
         - unique_sequences (list): A list of unique DNA sequences.
