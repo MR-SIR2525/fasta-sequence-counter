@@ -25,7 +25,7 @@ The input file example here is "Salmon.txt" and the example output is "sequence_
    - The txt file with your unique nucleotide sequences (should be 20 characters long but you can change the code to do a different length).
    - The FASTA file.
 
-2. **Run the Script**:
+2. **Run the Script and follow the prompts**:
 
     Windows cmd or powershell:
    ```powershell
